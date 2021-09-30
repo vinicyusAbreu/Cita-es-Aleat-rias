@@ -1,6 +1,6 @@
 # 😵 Citações Aleatórias
 
-Um pequeno projeto JavaScript que altera a citação e o autor com um clique de um botão. Desafio do Frontend Mentor.
+Um pequeno projeto JavaScript que altera a citação e o autor com um clique de um botão.
 
 ## ℹ Sobre o projeto 
 Projeto feito usando um objetos em js com nome de varios autores e citações, quando clica em no botão a citação e o autor muda aleatoriamente. Desenvolvido com HTML, CSS e Javascript.
